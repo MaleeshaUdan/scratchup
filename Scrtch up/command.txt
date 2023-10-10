@@ -1,0 +1,19 @@
+----COMPILING----
+
+javac -cp .;mysql-connector-j-8.1.0.jar MainPro.java
+
+
+----RUN---
+
+java -cp .;mysql-connector-j-8.1.0.jar MainPro
+
+
+----AZURE LOGIN----
+server name - hackintra
+username - roothackintra
+password - unipassword@1234ABC
+
+
+-----email account----
+name - bank@vannivogue.com 
+password - unipassword@1234ABC
